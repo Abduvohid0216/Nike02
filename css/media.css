@@ -1,0 +1,236 @@
+/* @media (max-width: 1440px) {} */
+/* @media (max-width: 1366px) {} */
+/* @media (max-width: 1320px) {} */
+/* @media (max-width: 1290px) {} */
+/* @media (max-width: 1140px) {} */
+ @media (max-width: 1024px) {
+    .info__box{
+        margin-top: 0;
+    }
+    .info__cards {
+        margin-top: 0;
+    }
+ }
+ @media (max-width: 992px) {
+    .nav {
+        padding: 14px 0;
+    }
+    .nav__link {
+        font-weight: 380;
+        font-size: 14px;
+        line-height: 17px;
+        padding: 20px 19px;
+    }
+    .nav__img {
+        width: 90px;
+    }
+    .header__title {
+        font-weight: 600;
+        font-size: 43px;
+        line-height: 52px;
+       
+    }
+    .header__text {
+        font-weight: 380;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .info__container {
+        margin: none;
+    }
+ } 
+ @media (max-width: 768px) {
+     .info__container {
+        margin: none;
+    }
+} 
+ @media (max-width: 736px) {
+    .info__container {
+        margin: none;
+    }
+ }
+ @media (max-width: 734px) {
+    .nav {
+        padding: 12px 0;
+    }
+    .nav__link {
+        font-weight: 370;
+        font-size: 13px;
+        line-height: 16px;
+        padding: 18px 17px;
+    }
+    .nav__img {
+        width: 80px;
+    }
+    .info__container {
+        margin: none;
+    }
+    .footer__content {
+        margin: 8px;
+    }
+ } 
+ @media (max-width: 684px) {
+    .nav {
+        padding: 10px 0;
+    }
+    .nav__link {
+        font-weight: 360;
+        font-size: 12px;
+        line-height: 15px;
+        padding: 16px 15px;
+    }
+    .nav__img {
+        width: 70px;
+    }
+    .header__title {
+        font-weight: 550;
+        font-size: 35px;
+        line-height: 44px;
+       
+    }
+    .header__text {
+        font-weight: 360;
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .info__container {
+        margin: none;
+    }
+    .footer__container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .footer__content {
+        display: flex;
+        gap: 50px;
+    }
+ } 
+ @media (max-width: 667px) {
+    .nav {
+        padding: 9px 0;
+    }
+    .nav__link {
+        font-weight: 340;
+        font-size: 10px;
+        line-height: 13px;
+        padding: 14px 13px;
+    }
+    .nav__img {
+        width: 65px;
+    }
+  
+ } 
+ @media (max-width: 576px) {
+    .nav {
+        padding: 7px 0;
+    }
+    .nav__link {
+        font-weight: 320;
+        font-size: 10px;
+        line-height: 13px;
+        padding: 7px 6px;
+    }
+    .nav__img {
+        width: 60px;
+    }
+    .header__title {
+        font-weight: 500;
+        font-size: 31px;
+        line-height: 40px;
+       
+    }
+    .header__text {
+        font-weight: 340;
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .info__container {
+        margin: none;
+    }
+}
+/* @media (max-width: 414px) {} */
+ @media (max-width: 412px) {
+    .nav {
+        padding: 5px 0;
+    }
+    .nav__link {
+        font-weight: 300;
+        font-size: 10px;
+        line-height: 13px;
+        padding: 5px 4px;
+    }
+    .nav__img {
+        width: 55px;
+    }
+    .info__container {
+        margin: none;
+    }
+    .nav__list {
+        display: none;
+    }
+ } 
+ @media (max-width: 375px) {
+    .nav {
+        padding: 4px 0;
+    }
+    .nav__link {
+        font-weight: 290;
+        font-size: 10px;
+        line-height: 13px;
+        padding: 4px 3px;
+    }
+    .nav__img {
+        width: 50px;
+    }
+    .nav__img {
+        width: 60px;
+    }
+    .header__title {
+        font-weight: 450;
+        font-size: 28px;
+        line-height: 36px;
+       
+    }
+    .header__text {
+        font-weight: 310;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .info__container {
+        margin: none;
+    }
+ } 
+ @media (max-width: 360px) {
+    .nav {
+        padding: 1px 0;
+    }
+    .nav__link {
+        font-weight: 270;
+        font-size: 9px;
+        line-height: 12px;
+        padding: 3px 2px;
+    }
+    .nav__img {
+        width: 45px;
+    }
+    .info__container {
+        margin: none;
+    }
+ } 
+ @media (max-width: 320px) {
+    .header__title {
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 33px;
+       
+    }
+    .header__text {
+        font-weight: 290;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .info__container {
+        margin: none;
+    }
+ }
